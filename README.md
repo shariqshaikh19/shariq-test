@@ -1,12 +1,3 @@
 # My Portfolio
 
-Welcome to my portfolio! 
-
-Skills:
-1. JavaScript
-1. Repl.it
-1. 
-
-
-const chalk= required('chalk');
-console.log(chalk.blue("hello"));
+![LOGO]{https://images.unsplash.com/photo-1541963463532-d6…8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80}
